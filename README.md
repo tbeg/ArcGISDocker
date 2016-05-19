@@ -4,7 +4,7 @@ Started with a Docker Build VM (VirtualBox)
 
 * 4GB RAM, 100GB HD, 2CPU, 2 Network (NAT and  HostOnly)
 * Di not name the server (use default localhost.localdomain)
-* Min install of CentOS 6.7
+* Min install of CentOS 6.7  (This version is fully supported by ArcGIS Products)
 * Group install X11
 * Install gettext, dos2unix, and wget
 * Install gc, perl, kernel-devel to install VirtualBox Guest Additions
